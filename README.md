@@ -5,10 +5,9 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/language-nodejs-green" />
-<img src="https://img.shields.io/badge/platform-npm-red" />
-<img src="https://img.shields.io/badge/platform-terminal-black" />
-<img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+ <img src="https://img.shields.io/badge/NodeJS-%204--2--1?style=for-the-badge&label=language&color=green">
+ <img src="https://img.shields.io/badge/NPM-%204--2--1?style=for-the-badge&label=platform&color=red">
+ <img src="https://img.shields.io/badge/Terminal-%204--2--1?style=for-the-badge&label=platform&color=black">
 </p>
 
 # About
